@@ -89,11 +89,9 @@ class _CartAppState extends State<CartApp> {
                   //changes ui of app
                   setState(() {
                     if (cartItems[product.getName()] < 2) {
-                      print('in remove');
                       cart.remove(product);
                       cartItems[product.getName()] = 0;
                     }
-                    print(cartItems[product.getName()]);
                     cartItems[product.getName()] < 1
                         ? cartItems[product.getName()] = 0
                         : cartItems[product.getName()]--;

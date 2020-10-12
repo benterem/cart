@@ -31,7 +31,8 @@ class CheckoutScreen extends StatelessWidget {
           shrinkWrap: true,
         ),
         Divider(),
-        Text("Your total: \$$sum")
+        Text("Your total: \$$sum",
+            style: TextStyle(fontWeight: FontWeight.bold))
       ],
     );
   }
