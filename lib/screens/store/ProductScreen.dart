@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:cart/ProductModel.dart';
+import 'package:cart/models/ProductModel.dart';
 
 class ProductScreen extends StatelessWidget {
   //fields

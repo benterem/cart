@@ -1,4 +1,4 @@
-import 'package:cart/ProductModel.dart';
+import 'package:cart/models/ProductModel.dart';
 import 'package:flutter/material.dart';
 
 class CheckoutScreen extends StatelessWidget {

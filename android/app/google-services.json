@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962858342218",
+    "firebase_url": "https://cartapp-ffda0.firebaseio.com",
+    "project_id": "cartapp-ffda0",
+    "storage_bucket": "cartapp-ffda0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962858342218:android:d31ba39c10b532ab11d3b3",
+        "android_client_info": {
+          "package_name": "com.example.cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962858342218-i4ql4p66f479hetgrdt9jvi85s19h5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2wjIGJZSBFlyDfsLerQMDM9kxuqYk66s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962858342218-i4ql4p66f479hetgrdt9jvi85s19h5cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
